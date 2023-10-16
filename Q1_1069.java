@@ -1,3 +1,9 @@
+/*
+ * Name: Kamallochan Das
+ * Reg No: 2241004066
+ * PS LINK: https://cses.fi/problemset/task/1069/
+ */
+
 import java.util.*;
 public class Q1_1069 {
     public static void main(String[] args) {
