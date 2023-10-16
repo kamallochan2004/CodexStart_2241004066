@@ -5,6 +5,7 @@ public class Q1_1069 {
             String input = scanner.next();
             int longestRepetition = repetition(input);
             System.out.println(longestRepetition);
+            scanner.close();
         }
         public static int repetition(String sequence) {
             int longest = 1;
